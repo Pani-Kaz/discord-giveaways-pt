@@ -1,7 +1,8 @@
 {
-  "name": "discord-giveaways",
-  "version": "5.0.1",
-  "description": "A complete framework to facilitate the creation of giveaways using discord.js",
+  "name": "discord-pt-giveaways
+",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "exports": {
     ".": [
@@ -40,9 +41,7 @@
   ],
   "author": "Androz2091",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Androz2091/discord-giveaways/issues"
-  },
+
   "homepage": "https://discord-giveaways.js.org",
   "dependencies": {
     "deepmerge": "^4.2.2",
